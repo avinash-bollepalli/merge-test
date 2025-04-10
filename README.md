@@ -1,7 +1,4 @@
 # merge-test
 # commit-1
-# branch-commit1
+# branch2-commit1
 
-==========
-# squash test
-# commit2
