@@ -1,5 +1,5 @@
 # merge-test
 # commit before branch cut
 
-# rel branch2 - commit1
-# rel branch2 - commit2
+# release branch commit1
+# commiting to check merge
